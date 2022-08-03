@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Machine Learning for Solving the Inverse Problem of
+  Estimating Properties of Plates
+message: Please cite this dataset using these metadata.
+type: dataset
+authors:
+  - given-names: Myren Rajh
+    name-particle: Myren
+    family-names: Rajh
+    email: myrenrajh@gmail.com
+    affiliation: University of Pretoria
